@@ -1,0 +1,9 @@
+!.gitignore
+
+lambda_function/*
+!lambda_function/alexa.py
+!lambda_function/Makefile
+
+server/*
+!server/app.py
+!server/requirements.txt
